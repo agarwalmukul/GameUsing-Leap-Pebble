@@ -1,5 +1,6 @@
-"https://github.com/dshah22/BallGame". This repository has the source code for logging click events from your pebble into the logfile.txt
-
+"https://github.com/dshah22/BallGame". 
+This repository has the source code for logging click events from your pebble into the logfile.txt
 Download and copy the contents from the above repository into BallGame-master directory.
 
-You can use this code to recieve click events from your Pebble watch using the Pebble SDK. Full instructions for using the Pebble SDK are coming soon.
+You can use this code to recieve click events from your Pebble watch using the Pebble SDK. 
+Full instructions for using the Pebble SDK are coming soon.
