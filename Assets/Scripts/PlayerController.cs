@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour {
 	void Update(){
 
 		//string text = System.IO.File.ReadAllText(@"C:\Users\Public\TestFolder\WriteText.txt");
-		string[] lines = System.IO.File.ReadAllLines(@"../GameUsing-Leap-Pebble/BallGame-master/logFile.txt");
+		string[] lines = System.IO.File.ReadAllLines(@"../GameUsing-Leap-Pebble-master/BallGame-master/logFile.txt");
 
 		if (lines.Length != null && lines.Length>0) {
 			string last = lines [lines.Length - 1];
