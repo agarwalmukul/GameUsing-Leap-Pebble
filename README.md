@@ -8,10 +8,15 @@ The code for logging click events from a Pebble watch can be found at the follow
 https://github.com/dshah22/BallGame
 
 The code in the current repository can be run inside Unity as follows:
+
 1. Download this repository as a zip.
+
 2. Extract the zip file to a folder "GameUsing-Leap-Pebble-master".
+
 3. Go to /GameUsing-Leap-Pebble-master/Assests/_Scenes/.
+
 4. Open BackupOne.unity.
+
 5. Play the game.
 
 Instructions on how to run the code for logging Pebble click events are coming soon.
