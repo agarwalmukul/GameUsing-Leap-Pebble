@@ -4,9 +4,6 @@ The game is developed in Unity. In the game, the player has to move a ball throu
 
 The player can also interact with the ball by pressing buttons on the Pebble smart watch. For example the player can make the ball jump by pressing the “up” button on the Pebble watch.
 
-The code for logging click events from a Pebble watch can be found at the following link:
-https://github.com/dshah22/BallGame
-
 The code in the current repository can be run inside Unity as follows:
 
 1. Download this repository as a zip.
@@ -19,4 +16,6 @@ The code in the current repository can be run inside Unity as follows:
 
 5. Play the game.
 
+The code for logging click events from a Pebble watch can be found at the following link:
+https://github.com/dshah22/BallGame
 Instructions on how to run the code for logging Pebble click events are coming soon.
