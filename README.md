@@ -18,4 +18,5 @@ The code in the current repository can be run inside Unity as follows:
 
 The code for logging click events from a Pebble watch can be found at the following link:
 https://github.com/dshah22/BallGame
+
 Instructions on how to run the code for logging Pebble click events are coming soon.
